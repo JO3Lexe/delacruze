@@ -1,0 +1,1 @@
+document.getElementById("ptest").innerHTML = "teste js"
