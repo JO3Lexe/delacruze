@@ -1,1 +1,1 @@
-document.getElementById("ptest").innerHTML = "teste js"
+document.getElementById("p2").innerHTML = "Olá Mundo!"
