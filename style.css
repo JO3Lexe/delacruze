@@ -1,3 +1,16 @@
-p {
-    color: red;
+#ptest {
+    position: absolute;
+    width: 401px;
+    height: 50px;
+    left: 145px;
+    top: 0px;
+
+    font-family: Sarpanch;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #FFFFFF;
 }
